@@ -46,7 +46,7 @@ if (isset($_POST['idToDel'])){
     deleteFicheF_HF($_SESSION['Id'],$_POST['idToDel'],false);
 
 }
-include './navbar/navbarComp.php';
+include './navbar/navbarVisi.php';
 
 unset($_POST);
 ?>

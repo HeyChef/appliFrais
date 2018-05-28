@@ -9,12 +9,12 @@
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
     </head>
 <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-            <a class="navbar-brand" href="visiteur_accueil.php">
+            <a class="navbar-brand" href="./comptable_accueil.php">
                 <img class="logo-nav" src="img/logo.png" alt="GSB">
             </a>
             <p class="app-frais">Application Frais</p>
                 <div class="nav-item">
-                    <a class="nav-link" href="comptable_accueil.php">Consultation des frais</a>
+                    <a class="nav-link" href="./comptable_accueil.php">Consultation des frais</a>
                 </div>
             <div class="navbar-toggler collapsed" data-toggle="collapse" data-target="#collapsingNavbar">
                 <div class="nav-item dropdown">

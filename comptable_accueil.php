@@ -4,7 +4,7 @@ require './pdo/Access.php';
 session_start();
 
 if (empty($_SESSION) || $_SESSION['Rang'] != 2){
-    header('Location: http://localhost/PPE/PPE-Web/');
+    header('Location: ../');
 }
 unset($_POST);
 
